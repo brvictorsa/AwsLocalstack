@@ -1,4 +1,4 @@
-##A demo to show how to fake AWS S3 locally with LocalStack
+## A demo to show how to fake AWS S3 locally with LocalStack
 
 ![Docker Compose](../master/assets/docker-compose.png)
 
