@@ -1,3 +1,4 @@
 node_modules/
 .env
+.localstack/data/*
 .localstack/*
