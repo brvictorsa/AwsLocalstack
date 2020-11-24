@@ -1,4 +1,6 @@
 node_modules/
 .env
 .localstack/data/*
-.localstack/*
+.localstack/server.test.pem
+.localstack/server.test.pem.crt
+.localstack/server.test.pem.key
