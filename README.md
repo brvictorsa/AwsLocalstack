@@ -1,4 +1,6 @@
-A demo to show how to fake AWS S3 locally with LocalStack
+##A demo to show how to fake AWS S3 locally with LocalStack
+
+![Docker Compose](../blob/master/assets/docker-compose.png)
 
 Firstly, install the LocalStack image from [Docker Hub](https://hub.docker.com/r/localstack/localstack)
 
